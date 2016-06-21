@@ -1,0 +1,15 @@
+Copyright Matthew Franglen (c) 2016
+
+All rights reserved.
+
+This license applies to the original work in this repository.
+
+This example is based on code from:
+
+    http://mathias-biilmann.net/posts/2011/10/03/is-haskell-the-cure
+
+This license does not apply to the source code taken from that site.
+
+This is just meant to be an example of using snap that I can refer to in
+future. If you, the reader, care about this license then something has gone
+wrong.
